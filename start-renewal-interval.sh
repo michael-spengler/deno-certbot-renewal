@@ -1,0 +1,1 @@
+pm2 start renew-certificate.ts --interpreter="deno" --interpreter-args="run --allow-net --allow-read --allow-run"
